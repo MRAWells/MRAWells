@@ -1,8 +1,8 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3ohzB055PO8JQ5PFwA/giphy-downsized.gif" width="300px"/>
-  <img src="https://media.giphy.com/media/3og0IyRiAsl1Pczi6Y/giphy-downsized.gif" width="300px"/>
-  <img src="https://media.giphy.com/media/l3c5ZuKjKSuLXXJsc/giphy-downsized.gif" width="300px"/>
+  <img src="https://media.giphy.com/media/3ohzB055PO8JQ5PFwA/giphy-downsized.gif" width="200px"/>
+  <img src="https://media.giphy.com/media/3og0IyRiAsl1Pczi6Y/giphy-downsized.gif" width="200px"/>
+  <img src="https://media.giphy.com/media/l3c5ZuKjKSuLXXJsc/giphy-downsized.gif" width="200px"/>
 </div>
 
 ---
